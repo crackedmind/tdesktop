@@ -1,0 +1,3 @@
+[submodule "zlib"]
+        path = Telegram/ThirdParty/zlib
+	url = https://github.com/madler/zlib
